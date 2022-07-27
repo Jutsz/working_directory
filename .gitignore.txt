@@ -1,2 +1,2 @@
-/file_b.txt
-/new_dir/*
+file_b.txt
+new_dir/*
