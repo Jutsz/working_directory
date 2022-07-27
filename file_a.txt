@@ -1,0 +1,4 @@
+Git is a version control system that is widely used for software development and other version control tasks. It is a distributed revision control system with an emphasis on speed, data integrity and support for distributed, non-linear workflows. Git was initially designed and developed in 2005 by Linux kernel developers (including Linus Torvalds) for Linux kernel development.
+So Git is a version control system to keep track of changes across a set of files in a folder on your computer. It lives in a hidden folder called .git and it keeps track of all changes specified, as you work.
+
+Every change, or commit, has a unique ID (or hash) linked to its parent. Furthermore, you can create branches, which have a different history than your master branch, with their own commits; these can then be merged back into the master.
